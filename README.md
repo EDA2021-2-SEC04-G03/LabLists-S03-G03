@@ -1,3 +1,8 @@
+INTEGRANTES:
+- Ana Sofía Villa Benavides as.villa@uniandes.edu.co (201923361)
+- Daniela Alejandra Camacho Molano d.camachom@uniandes.edu.co (202110974)
+
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
